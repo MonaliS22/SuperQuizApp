@@ -1,0 +1,20 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore jar, war, ear packages
+*.jar
+*.war
+*.ear
+
+# Ignore IDE files/folders
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# Ignore Eclipse output folder
+bin/
+out/
